@@ -7,4 +7,4 @@
 * Created a user profile.
 * Pointed out problems and opportunuties.
 
-<img align="left" width="400" height="300" src="https://github.com/kktsch/kktsch.github.io/blob/main/images/Project1_correlation.png">
+<img align="left" width="350" height="300" src="https://github.com/kktsch/kktsch.github.io/blob/main/images/Project1_correlation.png">
