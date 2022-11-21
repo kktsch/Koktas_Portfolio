@@ -1,7 +1,7 @@
-// HTML!
-<a href="http://davidwells.io">
-  Wowza!!!!
-</a>
+/* CSS! */
+.ninja {
+ visibility: hidden;
+}
 
 # Koktas Portfolio
 
