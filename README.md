@@ -1,2 +1,2 @@
 # Koktas_Portfolio
-Business analytics projects
+My portfolio
