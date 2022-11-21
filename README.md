@@ -1,7 +1,6 @@
-/* CSS! */
-.ninja {
- visibility: hidden;
-}
+---
+title-heading: false
+---
 
 # Koktas Portfolio
 
