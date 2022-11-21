@@ -6,5 +6,4 @@
 * Explored the data by key metrics and daily activity.
 * Created a user profile.
 * Pointed out problems and opportunuties.
-
 ![](https://github.com/kktsch/kktsch.github.io/blob/main/images/TotalSteps_Calories.png)
