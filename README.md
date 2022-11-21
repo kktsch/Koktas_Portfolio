@@ -1,5 +1,3 @@
-title-heading: false
-
 # Koktas Portfolio
 
 # [Project 1 - Smart Device User Analytics: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Project%201%20-%20Smart%20Device%20User%20Analytics)
