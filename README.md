@@ -6,4 +6,6 @@
 * Explored the data by key metrics and daily activity.
 * Created a user profile.
 * Pointed out problems and opportunuties.
+
+<img align="left" width="100" height="100" src="https://github.com/kktsch/kktsch.github.io/blob/main/images/Project1_correlation.png">
 ![](https://github.com/kktsch/kktsch.github.io/blob/main/images/Project1_correlation.png)
