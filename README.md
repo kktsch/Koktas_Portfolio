@@ -24,4 +24,6 @@
 * Picked the best performing algorithm with the success rate of 92%.
 * Built a graphical user interface that allows Human Resources to automatically get predictions.
 
-<img align="left" width="300" height="200" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/programSS.PNG">     
+<img align="left" width="300" height="200" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/scores.PNG">
+<img align="left" width="300" height="200" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/programSS.PNG"> 
+
