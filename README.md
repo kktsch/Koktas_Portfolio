@@ -15,7 +15,7 @@
 <br/><br/>
 <br/><br/>
 
-# [Project 2 - Employee Attrition Prediction: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Project%201%20-%20Smart%20Device%20User%20Analytics)
+# [Project 2 - Employee Attrition Prediction: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Project%202%20-%20Employee%20Turnover%20Prediction)
 * Human Resources department reported that there is a 15% attrition rate and would like to know if a program can be created that predicts possible turnovers.
 * They handed out the data of 4410 employees.
 * I identified the problems in the data, and added new features.
@@ -24,4 +24,4 @@
 * Picked the best performing algorithm with the success rate of 92%.
 * Built a graphical user interface that allows Human Resources to automatically get predictions.
 
-<img align="left" width="350" height="300" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/programSS.PNG">     
+<img align="left" width="350" height="250" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/programSS.PNG">     
