@@ -18,6 +18,8 @@
 # [Project 2 - Employee Attrition Prediction: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Project%201%20-%20Smart%20Device%20User%20Analytics)
 * Human Resources department reported that there is a 15% attrition rate and would like to know if a program can be created that predicts possible turnovers.
 * They handed out the data of 4410 employees.
-* I identified the problems in the data, cleaned and transformed.
-* Tested five different algorithms and picked the best one.
-* Built a graphical user interface that allows Human Resources automatically get new predictions.
+* I identified the problems in the data, and added new features.
+* Cleaned and transformed it.
+* Tested five different algorithms and compared performances.
+* Picked the best performing algorithm with the success rate of 92%.
+* Built a graphical user interface that allows Human Resources to automatically get predictions.
