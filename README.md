@@ -21,7 +21,7 @@
 * Cleaned and transformed it.
 * Tested five different algorithms and compared performances.
 * Picked the best performing algorithm with the success rate of 92%.
-* Built a graphical user interface that allows Human Resources to automatically get predictions.
+* Built a graphical user interface that allows Human Resources to get predictions automatically.
 
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/scores.PNG">
 <img align="left" width="300" height="200" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/programSS.PNG"> 
