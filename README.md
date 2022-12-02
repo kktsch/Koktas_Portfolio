@@ -25,4 +25,20 @@
 
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/scores.PNG">
 <img align="left" width="300" height="200" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/programSS.PNG"> 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+# [Project 3 - Sales Prediction: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Sales%20Forecast)
+* The client wants an app that predicts the sales for the next 30 days.
+* Their historical data consists of 536350 transactions.
+* I identified the drawbacks in the data and cleaned it.
+* Decided on the models to be tested.
+* Used 4 different models such as base, statistical, prophet and feature-based.
+* Compared the performances.
+* Built a web application using Streamlit that includes automatic forecasting and insights.
+
+[Click here to see the app](https://kktsch-sales-forecasting-app---streamlit-app-hkve7o.streamlit.app/)
 
