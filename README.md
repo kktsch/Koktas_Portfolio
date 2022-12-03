@@ -31,7 +31,7 @@
 <br/><br/>
 <br/><br/>
 
-# [Project 3 - Sales Prediction: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Sales%20Forecast)
+# [Project 3 - Sales Prediction: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Employee%20Turnover%20Prediction)
 * The client wants an app that predicts the sales for the next 30 days.
 * Their historical data consists of 536350 transactions.
 * I identified the drawbacks in the data and cleaned it.
