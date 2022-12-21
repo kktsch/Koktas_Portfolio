@@ -7,6 +7,7 @@
 
 <img align="left" width="350" height="250" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/Tableau%20Book.png">
 <br/><br/>
+
 [Click here to see the dashboard](https://public.tableau.com/app/profile/haldun.k.kta./viz/MigrosSalesAnalysis/Dashboard1?publish=yes)
 <br/><br/>
 <br/><br/>
