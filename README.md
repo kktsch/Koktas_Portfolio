@@ -3,7 +3,7 @@
 * Client has the 6 million transaction details from the past year.
 * I analyzed the data and identified its drawbacks.
 * Cleaned and transformed it.
-* Created a sales dashboard.
+* Created the dashboard using Tableau.
 
 <img align="left" width="350" height="250" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/Tableau%20Book.png">
 <br/><br/>
