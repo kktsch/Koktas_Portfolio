@@ -31,7 +31,7 @@
 <br/><br/>
 
 # [Project 3 - Employee Attrition Prediction: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Project%202%20-%20Employee%20Turnover%20Prediction)
-* Human Resources department reported that there is a 15% attrition rate and would like to know if a program can be created that predicts possible turnovers.
+* Human Resources department reported that there is a 15% attrition rate and would like to know if a software can be created that predicts possible turnovers.
 * They handed out the data of 4410 employees.
 * I identified the problems in the data, and added new features.
 * Cleaned and transformed it.
