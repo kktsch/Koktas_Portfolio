@@ -1,5 +1,5 @@
 # Portfolio
-# [Project 1 - Dashboard for Migros: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Smart%20Device%20User%20Analytics)
+# [Project 1 - Dashboard for Migros: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Sales%20Dashboard)
 * Client has the 6 million transaction details from the past year.
 * I analyzed the data and identified its drawbacks.
 * Cleaned and transformed it.
