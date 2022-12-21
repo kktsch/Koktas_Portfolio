@@ -1,19 +1,20 @@
 # Portfolio
 # [Project 1 - Dashboard for Migros: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Smart%20Device%20User%20Analytics)
-* Client has 6 million transaction details of from he past year.
+* Client has the 6 million transaction details from the past year.
 * I analyzed the data and identified its drawbacks.
 * Cleaned and transformed it.
-* Created a dashboard for the most important aspects.
+* Created a sales dashboard.
 
 <img align="left" width="350" height="250" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/Tableau%20Book.png">
 <br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 [Click here to see the dashboard](https://public.tableau.com/app/profile/haldun.k.kta./viz/MigrosSalesAnalysis/Dashboard1?publish=yes)
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+
 
 # [Project 2 - Smart Device User Analytics: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Smart%20Device%20User%20Analytics)
 * Analyzed daily habits and key physical attributes of people who use Fitbit's smart device.
