@@ -5,7 +5,7 @@
 * Cleaned and transformed it.
 * Created a dashboard for the most important aspects.
 
-<img align="left" width="350" height="250" src="https://github.com/kktsch/kktsch.github.io/blob/main/images/Project1_correlation.png?raw=true">
+<img align="left" width="350" height="250" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/Tableau%20Book.png">
 <br/><br/>
 <br/><br/>
 <br/><br/>
