@@ -1,9 +1,11 @@
 # Portfolio
 # [Project 1 - Dashboard for Migros: Project Overview](https://github.com/kktsch/kktsch.github.io/tree/main/Sales%20Dashboard)
-* Client has the 6 million transaction details from the past year.
-* I analyzed the data and identified its drawbacks.
-* Cleaned and transformed it.
-* Created the dashboard using Tableau.
+* Client has 6 million transaction details from the past year.
+* I analyzed the data and identified its defects.
+* Removed the outliers added new variables.
+* Merged related tables and created one master dataset.
+* Created visuals by geography, age, gender, store type and monthly sales using Tableau.
+* Created the sales dashboard.
 
 <img align="left" width="350" height="250" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/Tableau%20Book.png">
 <br/><br/>
