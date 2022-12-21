@@ -3,7 +3,7 @@
 * Client has 6 million transaction details from the past year.
 * I analyzed the data and identified its defects.
 * Removed the outliers added new variables.
-* Merged related tables and created one master dataset.
+* Merged related data tables and created one master dataset.
 * Created visuals by geography, age, gender, store type and monthly sales using Tableau.
 * Created the sales dashboard.
 
