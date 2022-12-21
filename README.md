@@ -6,6 +6,7 @@
 * Created a dashboard for the most important aspects.
 
 <img align="left" width="350" height="250" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/Tableau%20Book.png">
+[Click here to see the dashboard](https://public.tableau.com/app/profile/haldun.k.kta./viz/MigrosSalesAnalysis/Dashboard1?publish=yes)
 <br/><br/>
 <br/><br/>
 <br/><br/>
