@@ -7,7 +7,7 @@
 * Created visuals by geography, age, gender, store type and monthly sales using Tableau.
 * Created the sales dashboard.
 
-<img align="left" width="350" height="250" src="https://github.com/kktsch/kktsch.github.io/blob/main/images/Dashboard_SS.png?raw=true">
+<img align="left" width="350" height="250" src="https://raw.githubusercontent.com/kktsch/kktsch.github.io/main/images/Dashboard-Window.png">
 <br/><br/>
 <br/><br/>
 <br/><br/>
